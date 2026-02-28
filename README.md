@@ -22,6 +22,7 @@ Developed by:MARY AKSHARA S
 RegisterNumber: 2122252320169
 */
 ```
+```
 import numpy as np
 from scipy.linalg import lu
 A=np.array(eval(input()))
