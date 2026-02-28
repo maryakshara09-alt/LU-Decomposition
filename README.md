@@ -38,6 +38,7 @@ Developed by: MARY AKSHARA S
 RegisterNumber: 212225230169
 */
 ```
+```
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
 A=np.array(eval(input()))
@@ -49,9 +50,10 @@ print(x)
 
 ## Output:
 ![lu decomposition]()
-<img width="1918" height="977" alt="Screenshot 2026-02-28 202056" src="https://github.com/user-attachments/assets/d7ef8dd3-ddf9-4c36-af68-0976daa66d50" />
+<img width="1918" height="977" alt="Screenshot 2026-02-28 202056" src="https://github.com/user-attachments/assets/e57f3abf-a8ae-41aa-a464-bb65d3814505" />
+<img width="1919" height="1079" alt="Screenshot 2026-02-28 202115" src="https://github.com/user-attachments/assets/e0ca4a3c-5124-4be0-87cc-13baaf31a449" />
 
-<img width="1919" height="1079" alt="Screenshot 2026-02-28 202115" src="https://github.com/user-attachments/assets/1dada236-6870-4014-9b8e-7cc530838e2f" />
+
 
 
 
